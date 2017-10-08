@@ -14,7 +14,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](myss.github.io/docs/index.html) and ![Image](src)
 ```
 
 
