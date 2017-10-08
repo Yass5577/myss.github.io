@@ -1,13 +1,6 @@
 ## Bienvenido a mi proyecto web para la asignatura de DEW de 2º DAW
 
-You can use the [editor on GitHub](https://github.com/Yass5577/myssprojects.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
